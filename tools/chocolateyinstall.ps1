@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   url           = $url
   softwareName  = 'hledger*'
-  checksum      = '8135241CED807585453C690DE2301FFF534F5FC0E05A4C9E923828CDB5246354'
+  checksum      = 'D7ED8B4AC563E6F9D6BADBD1EB9D9CF2DA873D6685628710C1CD8C472D42EDAF'
   checksumType  = 'sha256'
 }
 
